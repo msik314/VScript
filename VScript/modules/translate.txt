@@ -1,0 +1,4 @@
+translante
+"vscript.h"
+entity x y z
+ga_vscript_translate(([entity]), ([x]), ([y]), ([z]));

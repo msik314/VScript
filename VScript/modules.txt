@@ -1,0 +1,4 @@
+modules/get_input_left.txt
+modules/get_input_right.txt
+modules/get_entity.txt
+modules/translate.txt

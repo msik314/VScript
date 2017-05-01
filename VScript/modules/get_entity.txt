@@ -1,0 +1,4 @@
+get_entity
+"vscript.h"
+component
+([return]) = ga_vscript_get_entity(([component]));

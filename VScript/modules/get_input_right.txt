@@ -1,0 +1,4 @@
+get_input_right
+"vscript.h"
+params
+([return]) = ga_vscript_get_input_right(([params]));
